@@ -1,4 +1,4 @@
 bbxmDSPfir
-==========
+===========
 
-bbxm DSP FIR Demo
+Beagle Board XM FIR DSP Demo Project
